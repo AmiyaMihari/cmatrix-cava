@@ -37,3 +37,7 @@ cmatrix-cava -u 6   # más lento (0-10, igual que cmatrix; default 4)
 Sal con `q`, `Esc` o `Ctrl+C`.
 
 Los colores se leen cada vez que lo abres, así que si cambias el degradado de cava la lluvia cambia también.
+
+## Licencia
+
+[MIT](LICENSE): puedes usarlo, modificarlo y compartirlo libremente.
